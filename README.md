@@ -17,13 +17,13 @@
 
 - :pencil: I'm a Techie and lifelong learner.
 
-- :chart_with_upwards_trend: I'm passionate about data visualization. Link to Tableau Public Profile: https://public.tableau.com/app/profile/paula.munoz
+- :chart_with_upwards_trend: I'm passionate about data analysis and visualization. --> link to my Tableau Public Profile: https://public.tableau.com/app/profile/paula.munoz
 
-- 👯 I’m looking to participate in more data related challenges.
+- 👯 During the second semester of 2021, I’m looking to participate in more data related challenges (#TidyTuesday, #preppindata, #MakeoverMonday, #WorkoutEdnesday) and reconnect with the data Community.
 
  ---
 
-### :computer: Latest Activities
+### :computer: The Latest
 
  ---
 
