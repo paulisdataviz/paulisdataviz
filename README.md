@@ -1,4 +1,5 @@
 
+### Hi there, my name is Paula  👋  
 
 <p align="left">
 
@@ -6,7 +7,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Paula Munoz LinkedIn Profile" height="30" width="30">
   </a>
 
-</p> ### Hi there, my name is Paula  👋  
+</p> 
 
 ---
 
