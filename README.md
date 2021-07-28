@@ -1,5 +1,5 @@
 
-### Hi there, my name is Paula  👋  
+### Hi there, my name is Paula Munoz👋  
 
 <p align="left">
 
@@ -19,7 +19,7 @@
 
 - :chart_with_upwards_trend: I'm passionate about data analysis and visualization. --> link to my Tableau Public Profile: https://public.tableau.com/app/profile/paula.munoz
 
-- 👯 During the second semester of 2021, I’m looking to reconnect with the data Community and participate in more data related challenges (#TidyTuesday, #preppindata, #MakeoverMonday, #WorkoutEdnesday and others).
+- 😄 During the second semester of 2021, I’m looking to reconnect with the data Community and participate in more data related challenges (#TidyTuesday, #preppindata, #MakeoverMonday, #WorkoutEdnesday and others).
 
  ---
 
@@ -27,18 +27,3 @@
 
  ---
 
-
-<!--
-**paulisdataviz/paulisdataviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
