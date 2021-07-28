@@ -11,13 +11,15 @@
 
 ---
 
-
-
-
 - :bar_chart: I’m a Data Professional with 5+ years of experience applying Data and Business Analytics techniques to support decision-making and process improvement.
+
 - :hash: I’m currently working as an Operations Analyst and Data Science professional at NETNUMBER.
-- :pencil: I'm a lifelong learner, currently holding two Bachelor of Science and one Master of Science Degree + Multiple Certifications and Online Courses.
-- :chart_with_upwards_trend: I'm passionate about data visualization and using data to drive customer satisfaction and company growth. Tableau Public Profile: https://public.tableau.com/app/profile/paula.munoz
+
+- :pencil: I'm a Techie and lifelong learner.
+
+- :chart_with_upwards_trend: I'm passionate about data visualization. Link to Tableau Public Profile: https://public.tableau.com/app/profile/paula.munoz
+
+- 👯 I’m looking to participate in more data related challenges.
 
  ---
 
