@@ -1,12 +1,12 @@
-### Hi there, my name is Paula  👋
+### Hi there, my name is Paula  👋 <a href="https://www.linkedin.com/in/paulamunoz1/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Paula Munoz LinkedIn Profile" height="30" width="30">
+  </a>
 
 ---
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/paulamunoz1/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Paula Munoz LinkedIn Profile" height="30" width="30">
-  </a>
+  
 
 </p>
 
