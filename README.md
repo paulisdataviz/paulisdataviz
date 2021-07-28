@@ -25,7 +25,7 @@
 
 ### :computer: The Latest
 
-* **2021 - Week 29 - Preppin Data - Tokyo 2020 Calendar**
+* **Data Wrangling Challenge - 2021 - Week 29 - Preppin Data - Tokyo 2020 Calendar**
 
   **R Solution**: <https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2021_W29/2021_W29_R.md>
   
