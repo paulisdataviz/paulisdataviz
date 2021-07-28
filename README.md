@@ -19,7 +19,7 @@
 
 - :chart_with_upwards_trend: I'm passionate about data analysis and visualization. --> link to my Tableau Public Profile: https://public.tableau.com/app/profile/paula.munoz
 
-- 👯 During the second semester of 2021, I’m looking to participate in more data related challenges (#TidyTuesday, #preppindata, #MakeoverMonday, #WorkoutEdnesday) and reconnect with the data Community.
+- 👯 During the second semester of 2021, I’m looking to reconnect with the data Community and participate in more data related challenges (#TidyTuesday, #preppindata, #MakeoverMonday, #WorkoutEdnesday).
 
  ---
 
