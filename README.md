@@ -1,14 +1,14 @@
-### Hi there, my name is Paula  👋 <a href="https://www.linkedin.com/in/paulamunoz1/">
+### Hi there, my name is Paula  👋  <p align="left">
+
+  <a href="https://www.linkedin.com/in/paulamunoz1/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Paula Munoz LinkedIn Profile" height="30" width="30">
   </a>
 
+</p>
+
 ---
 
-<p align="center">
 
-  
-
-</p>
 
 
 - :bar_chart: I’m a Data Professional with 5+ years of experience applying Data and Business Analytics techniques to support decision-making and process improvement.
