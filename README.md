@@ -25,6 +25,9 @@
 
 ### :computer: The Latest
 
+* **2021 - Week 31 - Preppin Data - Excelling in Prep/ R**
+<https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2021_W_31/2021_W_31_Preppin_R.md>
+
 * **2021 - Week 30 - TidyTuesday:** <https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/tidytuesday/2021_W_30/R_solution.md>
 
 * **Preppin Data Challenge: 2021 - Week 29 -- Tokyo 2020 Calendar:**
