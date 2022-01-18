@@ -19,25 +19,20 @@
 
 - :chart_with_upwards_trend: I'm passionate about data analysis and visualization. --> link to my Tableau Public Profile: https://public.tableau.com/app/profile/paula.munoz
 
-- 😄 During the second semester of 2021, I’m looking to reconnect with the data Community and participate in more data related challenges (#TidyTuesday, #preppindata, #MakeoverMonday, #WorkoutEdnesday and others).
+- 😄 During 2022, I’m looking to reconnect with the data Community and participate in more data related challenges (#TidyTuesday, #preppindata, #MakeoverMonday, #WorkoutEdnesday and others).
 
  ---
 
 ### :computer: The Latest
 
-* **2021 - Week 32 - TidyTuesday - Paralympics Games**
-<https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/tidytuesday/2021_W_32/2021_W_32_tidytuesday_R.md>
+# 2022 Challenges
 
-* **2021 - Week 31 - Preppin Data - Excelling in Prep/ R**
-<https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2021_W_31/2021_W_31_Preppin_R.md>
-
-* **2021 - Week 30 - TidyTuesday:** <https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/tidytuesday/2021_W_30/R_solution.md>
-
-* **Preppin Data Challenge: 2021 - Week 29 -- Tokyo 2020 Calendar:**
-
-  **R Solution**: <https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2021_W29/2021_W29_R.md>
-  
-  **Tableau Prep Solution**: <https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2021_W29/2021-W29-preppin--data---Tableau-Prep-solution.md>
-
+| Week| Challenge Project | Challenge Name | Tool | Relevant Libraries / Functions / Methods used |
+| --- | --- | --- | --- | --- |
+| [W 2R](<https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2022/2022_W2/2022_W2_Tableau_Prep_Solution_R.md>)<br> | Preppin Data | The Prep School - Birthday Cakes | R | tidyverse, skimr, lubridate, mutate, str_c, group_by, summarise |
+| [W 2TP](<https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2022/2022_W2/2022-W2-prepping-data_Tableau_Prep_Soultion.md>)<br> | Preppin Data | The Prep School - Birthday Cakess | Tableau Prep | IF Statements, DATEADD, DATENAME |
+| [W 1R](<https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2022/2022_W1/2022_W_1_preppin_data_solution_R.md>)<br> | Preppin Data | The Prep School - Parental Contact Details | R | tidyverse, skimr, lubridate, mutate, str_split|
+| [W 1TP](<https://github.com/paulisdataviz/DATA_WRANGLING/blob/main/2022/2022_W1/2022-W1-preppin--data---Tableau-Prep-Solution.md>)<br> | Preppin Data | The Prep School - Parental Contact Details | Tableau Prep | IF Statements, MAKEDATE |
+|  | |  |  |  |
  ---
 
