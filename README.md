@@ -13,7 +13,7 @@
 
 - :bar_chart: I’m a Data Professional with 5+ years of experience applying Data and Business Analytics techniques to support decision-making and process improvement.
 
-- :hash: I’m currently working as an Operations Analyst and Data Science professional at NETNUMBER.
+- :hash: I’m currently working as a Data Visualization and Analyitics consultant at CLEARTELLIGENCE
 
 - :pencil: I'm a Techie and lifelong learner.
 
